@@ -1,1 +1,1 @@
-# recetario
+Website con varias recetas de cocina. Usado para practicar el uso de HTML, CSS Y JS eventualmente.
